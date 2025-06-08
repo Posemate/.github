@@ -1,9 +1,9 @@
-## 머신러닝 기반 실시간 자세 시선 거리 교정 알림 앱<br>
+## 머신러닝 기반 실시간 자세 / 시선 거리 교정 알림 앱<br>
 
 ![Image](https://github.com/user-attachments/assets/8f9bf141-52b8-497a-abac-08f6aa82eacb)
 
 ## Posee란?
-자세(Pose) + 시선(See) -> Posee
+자세(**Pose**) + 시선(**See**) = **Posee**
 
 ![Image](https://github.com/user-attachments/assets/3e6d4819-68c7-40d8-a163-750b644bc029)
 ![Image](https://github.com/user-attachments/assets/94f124ab-7153-4bd3-970e-e552675ea4d9)
@@ -20,8 +20,7 @@
 ![Image](https://github.com/user-attachments/assets/fe665098-a330-4982-92fe-8f581b620b9e)
 ![Image](https://github.com/user-attachments/assets/9d83ba64-8075-4c59-8e0d-7a9e131040c1)
 ![Image](https://github.com/user-attachments/assets/dcff76a2-fde7-4098-991e-ec5ccbf49542)
-
-## 기술 스택
 ![Image](https://github.com/user-attachments/assets/2d0526bf-d660-420f-b903-55e1f1b4205e)
+![Image](https://github.com/user-attachments/assets/6ba248cb-5143-4478-8ef2-dfe010ed85c3)
 
-## 팀원
+
