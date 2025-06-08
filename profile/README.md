@@ -1,32 +1,27 @@
-# Posee
-> ‘자세(Pose)’와 ‘시선(See)’을 동시에 관리할 수 있도록 도와주는 스마트 헬스케어 앱
+## 머신러닝 기반 실시간 자세 시선 거리 교정 알림 앱<br>
 
-## Posee 주요 기능
-> 머신러닝 학습 모델을 이용해 앱 내 카메라 실시간 자세 분석
-<p>사용자가 앱 내 카메라를 실행하면 머신러닝으로 학습된 자세 분석 모델이 실시간으로 사용자의 자세를 감지하고 분석합니다. <br>
-  이를 통해 바른 자세 여부를 즉시 판단하고 화면을 통해 직관적인 피드백을 제공합니다.</p>
+![Image](https://github.com/user-attachments/assets/8f9bf141-52b8-497a-abac-08f6aa82eacb)
 
-> 백그라운드 자세 분석 및 알람
-<p>앱이 실행되지 않은 상태에서도 백그라운드에서 지속적으로 사용자 자세를 모니터링합니다. <br>
-  잘못된 자세가 일정 시간 이상 유지될 경우 즉각적으로 알람을 발생시켜 사용자에게 경고함으로써 장시간의 나쁜 습관을 예방할 수 있도록 돕습니다.</p>
+## Posee란?
+자세(Pose) + 시선(See) -> Posee
 
-> 오버레이를 통한 백그라운드 알림
-<p>다른 앱을 사용 중이거나 영상 시청 웹서핑 등 스마트폰을 이용하고 있는 상황에서 잘못된 자세가 감지되면 화면 위에 사람 모양의 가이드라인이 오버레이 형태로 표시됩니다. 
-  시각적 가이드라인은 바른 자세에 맞춰 휴대폰을 어떻게 바라봐야 하는지를 직관적으로 보여주며 앱을 사용하지 않을 때에도 효과적인 자세 교정을 유도합니다.</p>
+![Image](https://github.com/user-attachments/assets/3e6d4819-68c7-40d8-a163-750b644bc029)
+![Image](https://github.com/user-attachments/assets/94f124ab-7153-4bd3-970e-e552675ea4d9)
+![Image](https://github.com/user-attachments/assets/c97d769e-f512-4ed7-95e1-de9200ac1a12)
+![Image](https://github.com/user-attachments/assets/8c9a938d-024d-42c3-a257-f8bd54937b45)
+![Image](https://github.com/user-attachments/assets/9d160508-f7a2-4839-9006-29b5420278cb)
 
-> 월별 캘린더 기반 알림 기록 확인
-<p>사용자의 자세 경고 이력을 월 단위로 캘린더 형식으로 시각화하여 제공함으로써 어떤 날에 자세 문제가 잦았는지 쉽게 확인할 수 있습니다. 
-  이는 사용자 스스로 자신의 자세 습관을 인식하고 개선할 수 있는 기반 데이터를 제공합니다.</p>
+## 주요 기능
+![Image](https://github.com/user-attachments/assets/a03d5ece-3f30-4764-9841-0b162403850a)
+![Image](https://github.com/user-attachments/assets/a2edb27f-8cc9-4b74-aa79-68127caed582)
+![Image](https://github.com/user-attachments/assets/eb580bc8-8c51-44ec-9451-2e9a70e4aa02)
+![Image](https://github.com/user-attachments/assets/6c5944e2-224f-4a51-b787-2e563224a673)
+![Image](https://github.com/user-attachments/assets/a4dea341-dd8d-4123-874d-50b55599c4de)
+![Image](https://github.com/user-attachments/assets/fe665098-a330-4982-92fe-8f581b620b9e)
+![Image](https://github.com/user-attachments/assets/9d83ba64-8075-4c59-8e0d-7a9e131040c1)
+![Image](https://github.com/user-attachments/assets/dcff76a2-fde7-4098-991e-ec5ccbf49542)
 
 ## 기술 스택
-ML 모델 <br>
-Firebase <br>
-Kotlin, Android <br>
-Java, Spring Boot, JPA, MySQL <br>
-AWS Ec2, RDS
+![Image](https://github.com/user-attachments/assets/2d0526bf-d660-420f-b903-55e1f1b4205e)
 
 ## 팀원
-| 주민서           | 김하연              | 전수민              |
-|------------------|---------------------|---------------------|
-| Android/Server Developer | Android/Server Developer | Android/Server Developer |
-
